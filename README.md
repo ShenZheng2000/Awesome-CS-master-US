@@ -1,11 +1,29 @@
 # Awesome-CS-master-US
-This is a curated list of awesome computer science master programs in the United States. 
+This is a curated list of awesome US master programs related to computer science and data science. 
 
-# Tier-1 Program
+# Program
 
-# Tier-2 Program
+## Stanford-CS
 
-# Tier-3 Program
+## Princeton-CS
+
+## Yale-CS
+
+## Harvard-CS
+
+## CMU-CS
+
+## CMU-DS
+
+## CMU-CV
+
+## UCB-EECS
+
+## UCLA-CS
+
+## UCSD-CS
+
+## UCI-CS
 
 # Useful Websites
 
