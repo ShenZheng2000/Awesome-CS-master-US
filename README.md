@@ -1,4 +1,4 @@
-# Awesome-CS-master-US
+# Awesome-CS-master-US [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This is a curated list of awesome US master programs related to computer science and data science. 
 
 # Tier-0 Program
@@ -7,60 +7,85 @@ This is a curated list of awesome US master programs related to computer science
 # Tier-1 Program
 
 - Stanford-CS
+  - [Link](https://cs.stanford.edu/academics/masters)
 
 - Princeton-CS
+  - [Link](https://www.cs.princeton.edu/grad)
 
 - Yale-CS
+  - [Link](https://cpsc.yale.edu/academics/graduate-program/master-science)
 
 - Harvard-CS
+  - [Link](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering)
 
 - CMU-CS
+  - [Link](https://www.cs.cmu.edu/masters-programs)
 
 - CMU-DS
+  - [Link](https://mcds.cs.cmu.edu/)
 
 - UCB-EECS
+  - [Link](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng)
 
 - UCLA-CS
+  - [Link](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/)
 
 
 # Tier-2 Program
 
 - UIUC-CS
+  - [Link](https://cs.illinois.edu/academics/graduate/ms-program)
 
 - Columbia-CS
+ - [Link](https://www.cs.columbia.edu/education/ms/)
 
 - UChicago-CS
+  - [Link](https://masters.cs.uchicago.edu/)
 
 - Brown-CS
+  - [Link](https://www.brown.edu/graduateprograms/computer-science-scm)
 
 - Duke-CS
+  - [Link](https://www.cs.duke.edu/graduate/ms)
 
 - Upenn-CS
+  - [Link](https://www.cis.upenn.edu/graduate/program-offerings/master-of-computer-and-information-technology/)
 
 - UMich-CS
+  - [Link](https://cse.engin.umich.edu/academics/graduate/masters-in-cse/)
 
 - NYU-CS
+  - [Link](https://engineering.nyu.edu/academics/programs/computer-science-ms)
 
 - Northwestern-CS
+  - [Link](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/masters/)
 
 - Cornell-CS
+  - [Link](https://www.cs.cornell.edu/ms)
 
 - UCSD-CS
+  - [Link](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
 
 - UCI-CS
+  - [Link](https://mcs.ics.uci.edu/)
 
 
 # Tier-3 Program
+- UND-CS
+  - [Link](https://graduateschool.nd.edu/degree-programs/computer-science-and-engineering-mscse---masters-professional/)
 
 - WUSTL-CS
+  - [Link](https://cse.wustl.edu/academics/graduate/MS-in-Computer-Science.html)
 
 - Vanderbilt-CS
+  - [Link](https://engineering.vanderbilt.edu/eecs/Graduate/Programs/MSRequirmentsCS.php)
 
 - Rice-CS
+  - [Link](https://ga.rice.edu/programs-study/departments-programs/engineering/computer-science/computer-science-mcs/)
 
 - USC-CS
+  - [Link](https://www.cs.usc.edu/academic-programs/masters/)
 
-- Boston-CS
 
 - TODO: add more schools
 
