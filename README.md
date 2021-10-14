@@ -2,7 +2,7 @@
 This is a curated list of awesome US master programs related to computer science and data science. 
 
 # Tier-0 Program
-## MIT-CS (PHD only)
+- MIT-CS (PHD only)
 
 # Tier-1 Program
 
