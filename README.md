@@ -6,63 +6,63 @@ This is a curated list of awesome US master programs related to computer science
 
 # Tier-1 Program
 
-## Stanford-CS
+- Stanford-CS
 
-## Princeton-CS
+- Princeton-CS
 
-## Yale-CS
+- Yale-CS
 
-## Harvard-CS
+- Harvard-CS
 
-## CMU-CS
+- CMU-CS
 
-## CMU-DS
+- CMU-DS
 
-## UCB-EECS
+- UCB-EECS
 
-## UCLA-CS
+- UCLA-CS
 
 
 # Tier-2 Program
 
-## UIUC-CS
+- UIUC-CS
 
-## Columbia-CS
+- Columbia-CS
 
-## UChicago-CS
+- UChicago-CS
 
-## Brown-CS
+- Brown-CS
 
-## Duke-CS
+- Duke-CS
 
-## Upenn-CS
+- Upenn-CS
 
-## UMich-CS
+- UMich-CS
 
-## NYU-CS
+- NYU-CS
 
-## Northwestern-CS
+- Northwestern-CS
 
-## Cornell-CS
+- Cornell-CS
 
-## UCSD-CS
+- UCSD-CS
 
-## UCI-CS
+- UCI-CS
 
 
 # Tier-3 Program
 
-## WUSTL-CS
+- WUSTL-CS
 
-## Vanderbilt-CS
+- Vanderbilt-CS
 
-## Rice-CS
+- Rice-CS
 
-## USC-CS
+- USC-CS
 
-## Boston-CS
+- Boston-CS
 
-## TODO: add more schools
+- TODO: add more schools
 
 # References
 [28所美国计算机CS硕士院校申请难度分析汇总](https://zhuanlan.zhihu.com/p/268534820)
@@ -70,3 +70,4 @@ This is a curated list of awesome US master programs related to computer science
 [2021数据科学DS美研项目自制排名](https://www.ph-education.com/%E7%95%99%E5%AD%A6%E7%94%B3%E8%AF%B7/%E8%87%AA%E5%88%B6%E6%8E%92%E5%90%8D%E7%B3%BB%E5%88%97/ds%E7%BE%8E%E7%A0%94%E9%A1%B9%E7%9B%AE-2021%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6ds%E7%BE%8E%E7%A0%94%E9%A1%B9%E7%9B%AE%E8%87%AA%E5%88%B6%E6%8E%92%E5%90%8D%E2%80%8B/)
 
 # Contact
+You are welcome to open issues or pull request to this repository. 
