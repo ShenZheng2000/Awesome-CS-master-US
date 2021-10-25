@@ -86,8 +86,17 @@ This is a curated list of awesome US master programs related to computer science
 - USC-CS
   - [Link](https://www.cs.usc.edu/academic-programs/masters/)
 
+- Virginia-CS
+  - [Link]()
 
-- TODO: add more schools
+- Boston-CS
+  - [Link]()
+
+- Northeastern-CS
+  - [Link]()
+
+- Pittsburgh-CS
+  - [Link]()
 
 # References
 [28所美国计算机CS硕士院校申请难度分析汇总](https://zhuanlan.zhihu.com/p/268534820)
