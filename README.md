@@ -69,6 +69,11 @@ This is a curated list of awesome US master programs related to computer science
 - UCI-CS
   - [Link](https://mcs.ics.uci.edu/)
 
+- GIT-CS 
+  - [Link](https://www.cc.gatech.edu/degree-programs/master-science-computer-science)
+
+- UT-Austin-CS 
+  - [Link](https://www.cs.utexas.edu/graduate-program/masters-program)
 
 # Tier-3 Program
 - UND-CS
