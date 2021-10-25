@@ -37,7 +37,7 @@ This is a curated list of awesome US master programs related to computer science
   - [Link](https://cs.illinois.edu/academics/graduate/ms-program)
 
 - Columbia-CS
- - [Link](https://www.cs.columbia.edu/education/ms/)
+  - [Link](https://www.cs.columbia.edu/education/ms/)
 
 - UChicago-CS
   - [Link](https://masters.cs.uchicago.edu/)
